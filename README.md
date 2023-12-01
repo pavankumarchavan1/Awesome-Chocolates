@@ -4,10 +4,10 @@
 This is a Power BI project to Analyse the sales data of an imaginary Company called Awesome Chocolate, to discover hidden insights within their data for a more informed decision making.
 
 ## Data Source
-The Data is downloaded from [chandoo.org](https://chandoo.org/wp/learn-sql-for-data-analysis/) for practice puporses.
+The Data is downloaded from [chandoo.org](https://chandoo.org/wp/learn-sql-for-data-analysis/) for practice purposes.
 
 
-# Approach used
+## Approach used
 
 Data Import - I used MySQL Database to import the data 
 
