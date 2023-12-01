@@ -1,9 +1,9 @@
 # Awesome-Chocolates
 
-## OVERVIEW
-This is a power bi project to Analyse the sales data of an imaginary Company called Awesome Chocolate, to discover hidden insights within their data for a more informed decision making.
+## Overview
+This is a Power BI project to Analyse the sales data of an imaginary Company called Awesome Chocolate, to discover hidden insights within their data for a more informed decision making.
 
-DATA SOURCE
+## Data Source
 The Data is downloaded from [chandoo.org](https://chandoo.org/wp/learn-sql-for-data-analysis/) for practice puporses.
 
 
